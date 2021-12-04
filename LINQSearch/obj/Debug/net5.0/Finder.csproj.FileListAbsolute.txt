@@ -1,0 +1,16 @@
+C:\Visual Studio Code\Excersizes\FindFunctional\Finder\bin\Debug\net5.0\Finder.exe
+C:\Visual Studio Code\Excersizes\FindFunctional\Finder\bin\Debug\net5.0\Finder.deps.json
+C:\Visual Studio Code\Excersizes\FindFunctional\Finder\bin\Debug\net5.0\Finder.runtimeconfig.json
+C:\Visual Studio Code\Excersizes\FindFunctional\Finder\bin\Debug\net5.0\Finder.runtimeconfig.dev.json
+C:\Visual Studio Code\Excersizes\FindFunctional\Finder\bin\Debug\net5.0\Finder.dll
+C:\Visual Studio Code\Excersizes\FindFunctional\Finder\bin\Debug\net5.0\ref\Finder.dll
+C:\Visual Studio Code\Excersizes\FindFunctional\Finder\bin\Debug\net5.0\Finder.pdb
+C:\Visual Studio Code\Excersizes\FindFunctional\Finder\obj\Debug\net5.0\Finder.csproj.AssemblyReference.cache
+C:\Visual Studio Code\Excersizes\FindFunctional\Finder\obj\Debug\net5.0\Finder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio Code\Excersizes\FindFunctional\Finder\obj\Debug\net5.0\Finder.AssemblyInfoInputs.cache
+C:\Visual Studio Code\Excersizes\FindFunctional\Finder\obj\Debug\net5.0\Finder.AssemblyInfo.cs
+C:\Visual Studio Code\Excersizes\FindFunctional\Finder\obj\Debug\net5.0\Finder.csproj.CoreCompileInputs.cache
+C:\Visual Studio Code\Excersizes\FindFunctional\Finder\obj\Debug\net5.0\Finder.dll
+C:\Visual Studio Code\Excersizes\FindFunctional\Finder\obj\Debug\net5.0\ref\Finder.dll
+C:\Visual Studio Code\Excersizes\FindFunctional\Finder\obj\Debug\net5.0\Finder.pdb
+C:\Visual Studio Code\Excersizes\FindFunctional\Finder\obj\Debug\net5.0\Finder.genruntimeconfig.cache

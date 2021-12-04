@@ -1,0 +1,5 @@
+C:\Visual Studio Code\Excersizes\FindFunctional\FoldSearch\obj\Debug\net5.0\FoldSearch.csproj.AssemblyReference.cache
+C:\Visual Studio Code\Excersizes\FindFunctional\FoldSearch\obj\Debug\net5.0\FoldSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio Code\Excersizes\FindFunctional\FoldSearch\obj\Debug\net5.0\FoldSearch.AssemblyInfoInputs.cache
+C:\Visual Studio Code\Excersizes\FindFunctional\FoldSearch\obj\Debug\net5.0\FoldSearch.AssemblyInfo.cs
+C:\Visual Studio Code\Excersizes\FindFunctional\FoldSearch\obj\Debug\net5.0\FoldSearch.csproj.CoreCompileInputs.cache

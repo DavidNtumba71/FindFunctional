@@ -1,0 +1,16 @@
+C:\Visual Studio Code\Excersizes\FindFunctional\ImperitiveSearch\obj\Debug\net5.0\ImperitiveSearch.csproj.AssemblyReference.cache
+C:\Visual Studio Code\Excersizes\FindFunctional\ImperitiveSearch\obj\Debug\net5.0\ImperitiveSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio Code\Excersizes\FindFunctional\ImperitiveSearch\obj\Debug\net5.0\ImperitiveSearch.AssemblyInfoInputs.cache
+C:\Visual Studio Code\Excersizes\FindFunctional\ImperitiveSearch\obj\Debug\net5.0\ImperitiveSearch.AssemblyInfo.cs
+C:\Visual Studio Code\Excersizes\FindFunctional\ImperitiveSearch\obj\Debug\net5.0\ImperitiveSearch.csproj.CoreCompileInputs.cache
+C:\Visual Studio Code\Excersizes\FindFunctional\ImperitiveSearch\bin\Debug\net5.0\ImperitiveSearch.exe
+C:\Visual Studio Code\Excersizes\FindFunctional\ImperitiveSearch\bin\Debug\net5.0\ImperitiveSearch.deps.json
+C:\Visual Studio Code\Excersizes\FindFunctional\ImperitiveSearch\bin\Debug\net5.0\ImperitiveSearch.runtimeconfig.json
+C:\Visual Studio Code\Excersizes\FindFunctional\ImperitiveSearch\bin\Debug\net5.0\ImperitiveSearch.runtimeconfig.dev.json
+C:\Visual Studio Code\Excersizes\FindFunctional\ImperitiveSearch\bin\Debug\net5.0\ImperitiveSearch.dll
+C:\Visual Studio Code\Excersizes\FindFunctional\ImperitiveSearch\bin\Debug\net5.0\ref\ImperitiveSearch.dll
+C:\Visual Studio Code\Excersizes\FindFunctional\ImperitiveSearch\bin\Debug\net5.0\ImperitiveSearch.pdb
+C:\Visual Studio Code\Excersizes\FindFunctional\ImperitiveSearch\obj\Debug\net5.0\ImperitiveSearch.dll
+C:\Visual Studio Code\Excersizes\FindFunctional\ImperitiveSearch\obj\Debug\net5.0\ref\ImperitiveSearch.dll
+C:\Visual Studio Code\Excersizes\FindFunctional\ImperitiveSearch\obj\Debug\net5.0\ImperitiveSearch.pdb
+C:\Visual Studio Code\Excersizes\FindFunctional\ImperitiveSearch\obj\Debug\net5.0\ImperitiveSearch.genruntimeconfig.cache

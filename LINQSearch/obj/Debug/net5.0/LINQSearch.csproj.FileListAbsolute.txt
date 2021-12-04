@@ -1,0 +1,16 @@
+C:\Visual Studio Code\Excersizes\FindFunctional\LINQSearch\bin\Debug\net5.0\LINQSearch.exe
+C:\Visual Studio Code\Excersizes\FindFunctional\LINQSearch\bin\Debug\net5.0\LINQSearch.deps.json
+C:\Visual Studio Code\Excersizes\FindFunctional\LINQSearch\bin\Debug\net5.0\LINQSearch.runtimeconfig.json
+C:\Visual Studio Code\Excersizes\FindFunctional\LINQSearch\bin\Debug\net5.0\LINQSearch.runtimeconfig.dev.json
+C:\Visual Studio Code\Excersizes\FindFunctional\LINQSearch\bin\Debug\net5.0\LINQSearch.dll
+C:\Visual Studio Code\Excersizes\FindFunctional\LINQSearch\bin\Debug\net5.0\ref\LINQSearch.dll
+C:\Visual Studio Code\Excersizes\FindFunctional\LINQSearch\bin\Debug\net5.0\LINQSearch.pdb
+C:\Visual Studio Code\Excersizes\FindFunctional\LINQSearch\obj\Debug\net5.0\LINQSearch.csproj.AssemblyReference.cache
+C:\Visual Studio Code\Excersizes\FindFunctional\LINQSearch\obj\Debug\net5.0\LINQSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio Code\Excersizes\FindFunctional\LINQSearch\obj\Debug\net5.0\LINQSearch.AssemblyInfoInputs.cache
+C:\Visual Studio Code\Excersizes\FindFunctional\LINQSearch\obj\Debug\net5.0\LINQSearch.AssemblyInfo.cs
+C:\Visual Studio Code\Excersizes\FindFunctional\LINQSearch\obj\Debug\net5.0\LINQSearch.csproj.CoreCompileInputs.cache
+C:\Visual Studio Code\Excersizes\FindFunctional\LINQSearch\obj\Debug\net5.0\LINQSearch.dll
+C:\Visual Studio Code\Excersizes\FindFunctional\LINQSearch\obj\Debug\net5.0\ref\LINQSearch.dll
+C:\Visual Studio Code\Excersizes\FindFunctional\LINQSearch\obj\Debug\net5.0\LINQSearch.pdb
+C:\Visual Studio Code\Excersizes\FindFunctional\LINQSearch\obj\Debug\net5.0\LINQSearch.genruntimeconfig.cache
